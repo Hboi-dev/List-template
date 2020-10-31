@@ -1,0 +1,1 @@
+To add lists to a website or a page write up, you will need use an HTML list tags. Meanwhile, this template consist of the necessary HTML and CSS to create any form of list section, including that of your website navigation bar.
